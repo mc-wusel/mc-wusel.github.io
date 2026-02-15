@@ -1,0 +1,6 @@
+User-agent: *
+Disallow: /node_modules/
+Disallow: /css/
+Disallow: /js/
+Allow: /
+Sitemap: https://mc-wusel.github.io/sitemap.xml
